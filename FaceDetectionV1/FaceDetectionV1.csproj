@@ -46,7 +46,6 @@
   <ItemGroup>
     <Compile Include="HaarsPrimitives.cs" />
     <Compile Include="Image.cs" />
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
